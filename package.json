@@ -1,0 +1,21 @@
+{
+  "name": "lodge",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "hbs": "^4.1.1",
+    "nodemailer": "^6.5.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
